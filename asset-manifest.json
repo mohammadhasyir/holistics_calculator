@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/holistics_calculator/static/css/main.65f72fda.css",
+    "main.js": "/holistics_calculator/static/js/main.7c4ff684.js",
+    "static/js/787.30b2e11d.chunk.js": "/holistics_calculator/static/js/787.30b2e11d.chunk.js",
+    "static/media/hl logo.png": "/holistics_calculator/static/media/hl logo.257b4c9e7664dedae753.png",
+    "static/media/calculate.png": "/holistics_calculator/static/media/calculate.efddfee2ab1e4b92eb3c.png",
+    "index.html": "/holistics_calculator/index.html",
+    "main.65f72fda.css.map": "/holistics_calculator/static/css/main.65f72fda.css.map",
+    "main.7c4ff684.js.map": "/holistics_calculator/static/js/main.7c4ff684.js.map",
+    "787.30b2e11d.chunk.js.map": "/holistics_calculator/static/js/787.30b2e11d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f72fda.css",
+    "static/js/main.7c4ff684.js"
+  ]
+}
